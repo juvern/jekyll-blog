@@ -25,7 +25,7 @@ permalink: /goals/
 
 ### What I'm currently exploring
 
-* Medidation
+* Meditation
 * Machine learning, algorithms, data science
 * Web development with Ruby on Rails
 * Jazz music
