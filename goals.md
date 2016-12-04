@@ -12,6 +12,7 @@ permalink: /goals/
 * Visit all the Disneylands in the world (<del>Hong Kong</del>, <del>California, US</del>, <del>Florida, US</del>, <del>Paris</del>, Osaka)
 * Win a tennis league
 * Build a profitable business
+* Play piano in a jazz band
 * Be fluent in Mandarin
 * Take a year off to travel the world 
 * Financial independence
@@ -22,13 +23,11 @@ permalink: /goals/
 * Write a book
 * Swim with dolphins
 
-
 ### What I'm currently exploring
 
 * Meditation
 * Machine learning, algorithms, data science
 * Web development with Ruby on Rails
-* Jazz music
 * Food photography
 
-Last updated: 12 November 2016
+Last updated: 4 December 2016
