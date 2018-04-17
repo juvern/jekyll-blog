@@ -7,7 +7,6 @@ It's my father's 60th birthday today. He retired yesterday after a 40-year caree
 As luck will turn out, they liked it and our story made the Malaysian national daily.
 
 [Here’s the story as originally published in The Star] (http://www.thestar.com.my/news/education/2017/06/04/tribute-to-papa)
-___
 
 We were always asked what it was like to be the children of parents who were teachers.
 
