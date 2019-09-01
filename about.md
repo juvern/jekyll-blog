@@ -6,13 +6,14 @@ permalink: /about/
 
 ### How I got here
 
-I'm teaching people how to cook healthy and delicious meals with little effort at [Lazy Home Chef](http://www.lazyhomechef.com).
 
-At the same time, I am also freelancing with a few startups as a finance and operations consultant in London, building on the experience I gained at [RotaGeek](http://www.rotageek.com), a SaaS employee scheduling software company, where I led finance and operations .
+I'm co-founder at Quantico Financial, helping startups build finance teams.
 
-Before that, I started my career at [KPMG](http://www.kpmgtechgrowth.co.uk) where I trained as a chartered accountant and worked with a range of companies from tech startups to large media companies.
+After working in the High Growth team in KPMG, I worked with various financial, operational and systems roles across a range of startups in London, including RotaGeek and Receipt Bank.
 
-In another life, I had a stint with the Royal Navy and played in an all girls rock band. 
+I enjoy tinkering with new technology and along the journey, have completed a Udacity Full Stack Web Developer Nanodegree and various machine learning courses.
 
-I'm also trying to build a life where I can spend more time in Malaysia where the weather is sunny and food is delicious. 
+When not geeking out, I'm probably playing the violin, having a game of tennis or eating and cooking good food.
+
+In another life, I had a stint with the Royal Navy and played in an all-girls rock band.
 
